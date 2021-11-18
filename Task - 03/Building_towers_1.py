@@ -1,0 +1,5 @@
+n = int(input())
+w = list(map(int, input().split()))
+w_build = set(w)
+w_maxbuild = max(set(w), key = w.count)
+print(w.count(w_maxbuild), len(w_build))
