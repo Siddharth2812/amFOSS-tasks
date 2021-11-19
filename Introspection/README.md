@@ -1,11 +1,11 @@
 # Introspection:
 
 ## Why must you choose me?
-
+whenever I starded doing the works I feel I have to give it my all and do the work. Similarly when I started doing the tasks I gave my all to  learn what i have to do. Doing the tasks I found my younger self who was very intrested in coding and software work in me beginning to feel happy about me going in the path I once wished to be in. I felt that coding was my passion while doing the tasks. I feel a new energy flowing while coding. 
 
 
 ## How would I contribute to the club?
-
+After working for the tasks I found that I'm going to work my fullest to complete all the future s
 
 
 
